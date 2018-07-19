@@ -2,9 +2,9 @@
 
 #### 在Terminal中输入：
 
-1.git clone git@github.com:Alcy-Zero/C7nTest.git
+1.git clone git@github.com:Alcy-Zero/JavaTest1.git
 
-2.cd C7nTest
+2.cd JavaTest1
 
 3.sh build.sh
 
@@ -14,9 +14,9 @@
 
 #### 在cmd中输入：
 
-1.git clone git@github.com:Alcy-Zero/C7nTest.git
+1.git clone git@github.com:Alcy-Zero/JavaTest1.git
 
-2.cd C7nTest
+2.cd JavaTest1
 
 3.sh build.sh
 
@@ -26,9 +26,9 @@
 
 1.找一个文件夹，右键Git Bash Here
 
-2.git clone git@github.com:Alcy-Zero/C7nTest.git
+2.git clone git@github.com:Alcy-Zero/JavaTest1.git
 
-3.cd C7nTest
+3.cd JavaTest1
 
 4.sh build.sh
 
