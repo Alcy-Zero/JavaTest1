@@ -5,6 +5,8 @@ import com.hand.LMSort;
 import java.util.*;
 
 public class LMSort2 implements LMSort {
+    private List list = createList();
+    private Map map = createMap();
     @Override
     public List createList(){
         List list = new ArrayList();
@@ -13,10 +15,13 @@ public class LMSort2 implements LMSort {
         }
         return list;
     }
-
     @Override
     public Map createMap(){
         Map map = new HashMap();
         return map;
+    }
+
+    public void sortMap(){
+
     }
 }
