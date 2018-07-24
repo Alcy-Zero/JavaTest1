@@ -1,11 +1,11 @@
 package com.hand;
 
 public class User {
-    private double pay;
+    private double salary;
     private double tax;
 
-    public User(double pay) {
-        this.pay = pay;
+    public User(double salary) {
+        this.salary = salary;
     }
 
     public double getTax() {
@@ -17,13 +17,11 @@ public class User {
     }
 
     public double getPay() {
-        return pay;
+        return salary;
     }
 
-    public void setPay(double pay) {
-        this.pay = pay;
+    public void setPay(double salary) {
+        this.salary = salary;
     }
-
-
 
 }
