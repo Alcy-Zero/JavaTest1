@@ -7,21 +7,23 @@ import java.util.*;
 public class LMSort1 implements LMSort {
     private List list = createList();
     private Map map = createMap();
+
     @Override
-    public List createList(){
+    public List createList() {
         List list = new ArrayList<>();
-        for(int i=0;i<100;i++){
-            list.add((int)Math.random()*100);
+        for (int i = 0; i < 100; i++) {
+            list.add((int) Math.random() * 100);
         }
         return list;
     }
+
     @Override
-    public Map createMap(){
+    public Map createMap() {
         Map map = new HashMap();
         return map;
     }
 
-    public void sortMap(){
+    public void sortMap() {
 
     }
 }
